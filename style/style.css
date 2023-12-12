@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+}
+
+.chefs {
+    margin: 10px;
+    font-size: 22px;
+    font-family: cursive;
+    color: rgb(222, 38, 38);
+
+}
+
+.heading {
+    margin: auto;
+    font-size: 28px;
+    font-weight: 900;
+    margin: 10px;
+
+
+}
+
+hr {
+    width: 220px;
+    background-color: rgb(222, 38, 38);
+    height: 2px;
+
+}
+
+img {
+    position: relative;
+    width: 420px;
+    height: 260px;
+    z-index: -1;
+}
+
+.one {
+    float: inline-start;
+    margin: 40px;
+    width: 420px;
+    height: 460px;
+    box-shadow: 0px 3px 5px rgb(158, 157, 157);
+}
+
+.namebox {
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 60px;
+    padding: 1px;
+    margin-left: 60px;
+    margin-top: -50px;
+    box-shadow: 0px 3px 5px rgb(158, 157, 157);
+}
+
+.name {
+    font-size: 18px;
+    margin: 5px;
+    font-weight: 900;
+}
+
+.post {
+    font-family: cursive;
+    font-size: 16px;
+    margin: 5px;
+    color: rgb(222, 38, 38);
+}
+
+section p{
+    margin-top: 60px;
+}
+i{  margin: 0px 10px 0px;;
+    color: rgb(222, 38, 38);
+}
